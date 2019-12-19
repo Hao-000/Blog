@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://hao-000.github.io/Blog/</id>
     <title>Gridea</title>
-    <updated>2019-12-19T06:29:39.719Z</updated>
+    <updated>2019-12-19T06:42:43.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://hao-000.github.io/Blog/"/>
+    <link rel="self" href="https://hao-000.github.io/Blog//atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://hao-000.github.io/Blog//images/avatar.png</logo>
+    <icon>https://hao-000.github.io/Blog//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
-        <id>http://localhost:4000/post/ce-shi</id>
-        <link href="http://localhost:4000/post/ce-shi">
+        <id>https://hao-000.github.io/Blog//post/ce-shi</id>
+        <link href="https://hao-000.github.io/Blog//post/ce-shi">
         </link>
         <updated>2019-12-19T05:39:51.000Z</updated>
         <content type="html"><![CDATA[<h2 id="测试">测试</h2>
@@ -25,8 +25,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/post/hello-gridea</id>
-        <link href="http://localhost:4000/post/hello-gridea">
+        <id>https://hao-000.github.io/Blog//post/hello-gridea</id>
+        <link href="https://hao-000.github.io/Blog//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
